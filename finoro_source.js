@@ -54,7 +54,7 @@ function draw() {
 }
 
 function save_img(){    
-  save('myFinoroImg.png');
+  save('myVoselfiFinoroImg.png');
 }
 
 function backtohome(){
